@@ -24,7 +24,7 @@ import SecondImage from './secondImage.svg';
 
 ### Loader output
 
-#### Wepback1.x
+#### Webpack1.x
 
 ```js
 // In your webpack config
@@ -34,7 +34,7 @@ import SecondImage from './secondImage.svg';
 }
 ```
 
-#### Wepback2.x
+#### Webpack2.x
 
 ```js
 // In your webpack config
