@@ -5,4 +5,15 @@
   "main": "index.js",
   "author": "MiRinZhang <noodles@yabing.me>",
   "license": "MIT",
+  "keywords": [
+    "svg",
+    "React",
+    "base64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiRinZhang/svg-to-base64.git"
+  },
+  "bugs": { "url": "https://github.com/MiRinZhang/svg-to-base64/issues"},
+  "homepage": "https://github.com/MiRinZhang/svg-to-base64"
 }
