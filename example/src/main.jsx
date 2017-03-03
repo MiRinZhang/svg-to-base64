@@ -10,7 +10,7 @@ import oldImage from '../resource/oldImage';
 class Example extends Component {
   render() {
     return <div>
-      <h2>this is test</h2>
+      <h2>turn SVGs into Base64</h2>
       <p>
         <span>new type svg file</span>
         <img src={newImage} alt="newStyle" />
