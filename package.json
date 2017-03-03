@@ -1,6 +1,6 @@
 {
   "name": "svg2base64-loader",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A Webpack Loader to turn SVGs into Base64",
   "main": "index.js",
   "author": "MiRinZhang <noodles@yabing.me>",

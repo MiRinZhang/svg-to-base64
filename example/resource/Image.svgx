@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="40px" viewBox="0 0 33 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <title>Group 4 Copy 2</title>
+  <desc>Created with Sketch.</desc>
+  <defs>
+    <rect id="path-1" x="0" y="3.19148936" width="33" height="36.5951203" rx="4"></rect>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="36.5951203" fill="white">
+      <use xlink:href="#path-1"></use>
+    </mask>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="iPhone-7-Copy-20" transform="translate(-4.000000, 0.000000)">
+      <g id="Group-4-Copy-2" transform="translate(4.000000, 0.000000)">
+        <ellipse id="Oval-Copy-6" fill="#FFACAC" cx="6.93517014" cy="21.0638298" rx="1.72464383" ry="1.70212766"></ellipse>
+        <ellipse id="Oval-Copy-9" fill="#AFBFFF" cx="6.93517014" cy="27.8723404" rx="1.72464383" ry="1.70212766"></ellipse>
+        <ellipse id="Oval-Copy-7" fill="#AFBFFF" cx="16.4878017" cy="21.0638298" rx="1.72464383" ry="1.70212766"></ellipse>
+        <ellipse id="Oval-Copy-10" fill="#AFBFFF" cx="16.4878017" cy="27.8723404" rx="1.72464383" ry="1.70212766"></ellipse>
+        <ellipse id="Oval-Copy-8" fill="#AFBFFF" cx="26.0404333" cy="21.0638298" rx="1.72464383" ry="1.70212766"></ellipse>
+        <use id="Rectangle-6-Copy-3" stroke="#8FE1FC" mask="url(#mask-2)" stroke-width="6" xlink:href="#path-1"></use>
+        <rect id="Rectangle-10" fill="#AFBFFF" x="5.21052632" y="0.638297872" width="2.60526316" height="7.31707317" rx="1.30263158"></rect>
+        <rect id="Rectangle-10-Copy" fill="#AFBFFF" x="25.0526316" y="0.638297872" width="2.60526316" height="7.31707317" rx="1.30263158"></rect>
+        <rect id="Rectangle-10-Copy-4" fill="#8FE1FC" transform="translate(16.230263, 11.276596) rotate(90.000000) translate(-16.230263, -11.276596) " x="14.9802632" y="-3.82978723" width="2.5" height="30.212766"></rect>
+      </g>
+    </g>
+  </g>
+</svg>

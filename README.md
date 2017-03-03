@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-npm i --D svg-to-base64
+npm i --D svg2base64-loader
 ```
 
 ## Useage
