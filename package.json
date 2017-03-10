@@ -1,13 +1,13 @@
 {
   "name": "svg2base64-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Webpack Loader to turn SVGs into Base64",
   "main": "index.js",
   "author": "MiRinZhang <noodles@yabing.me>",
   "license": "MIT",
   "keywords": [
-    "svg",
     "React",
+    "svg",
     "base64"
   ],
   "repository": {
